@@ -9,4 +9,4 @@ You can access the paper [here](https://github.com/aaryapatil01/CS4395_Portfolio
 ## Portfolio Assignment 1: Text Processing with Python
 This is our first assignment. We had to code a program to read, process, and print out data from a csv file.
 
-You can access my code [here] and the document explaining it more in depth [here](https://github.com/aaryapatil01/CS4395_Portfolio/files/10553547/Assignment.1.Text.Processing.Explanation.pdf).
+You can access my code [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/main.py) and the document explaining it more in depth [here](https://github.com/aaryapatil01/CS4395_Portfolio/files/10553547/Assignment.1.Text.Processing.Explanation.pdf).
