@@ -11,7 +11,7 @@ This is our first assignment. We had to code a program to read, process, and pri
 
 You can access my code [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%201/main.py) and the document explaining it more in depth [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%201/Assignment_1_Text_Processing_Explanation.pdf).
 
-## Portfolio Assignment 2: Word Guessing Game (Ch. 5)
+## Portfolio Chapter 5: Word Guess Game (Assignment 2)
 This is our second assignment. We had to analyze text from a file and then create a word guessing game using the top 50 most common nouns from the file.
 
 You can access my code [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%202/main.py).
