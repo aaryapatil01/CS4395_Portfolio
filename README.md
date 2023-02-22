@@ -15,3 +15,8 @@ You can access my code [here](https://github.com/aaryapatil01/CS4395_Portfolio/b
 This is our second assignment. We had to analyze text from a file and then create a word guessing game using the top 50 most common nouns from the file.
 
 You can access my code [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%202/main.py).
+
+## Portfolio Assignment: WordNet (Assignment 3)
+This is our third assignment. We had to use WordNet and SentiWordNet to do analysis on different words and sentences.
+
+You can access my python notebook [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%203/HLT_WordNet.pdf).
