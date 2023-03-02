@@ -20,3 +20,8 @@ You can access my code [here](https://github.com/aaryapatil01/CS4395_Portfolio/b
 This is our third assignment. We had to use WordNet and SentiWordNet to do analysis on different words and sentences.
 
 You can access my python notebook [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%203/HLT_WordNet.pdf).
+
+## Portfolio Assignment: Sentence Parsing (Assignment 4)
+This is our fourth assignment. We had to use 3 different types of parsing methods for a sample sentence of our choice. 
+
+You can access my document [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%204/Sentence_Parsing_Aarya_Patil.pdf).
