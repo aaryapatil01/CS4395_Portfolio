@@ -25,3 +25,8 @@ You can access my python notebook [here](https://github.com/aaryapatil01/CS4395_
 This is our fourth assignment. We had to use 3 different types of parsing methods on a sample sentence of our choice. 
 
 You can access my document [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%204/Sentence_Parsing_Aarya_Patil.pdf).
+
+## Portfolio Chapter 8: Ngrams (Assignment 5)
+This is our fifth assignment. We worked in teams of 2 to build 3 language models (English, French, and Italian) from N-grams. We wrote one program to pickle the language model dictionaries and another program to unpack them, since that process can be very time consuming when written in one program. 
+
+You can access my first program [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%205/program_1.py) and my second program [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%205/program_1.py). You can also access our document discussing N-grams [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%205/Overview_of_Ngrams.pdf).
