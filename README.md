@@ -30,3 +30,8 @@ You can access my document [here](https://github.com/aaryapatil01/CS4395_Portfol
 This is our fifth assignment. We worked in teams of 2 to build 3 language models (English, French, and Italian) from N-grams. We wrote one program to pickle the language model dictionaries and another program to unpack them, since that process can be very time consuming when written in one program. 
 
 You can access my first program [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%205/program_1.py) and my second program [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%205/program_1.py). You can also access our document discussing N-grams [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%205/Overview_of_Ngrams.pdf).
+
+## Portfolio: Finding or Building a Corpus (Assignment 6)
+This is our sixth assignment. We worked in teams of 2 to build a web crawler and do web scraping with Beautiful Soup and other APIs.
+
+You can access my code [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%206/main.py) and the document explaining it more in depth [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%206/Overview_of_Corpus_Creation.pdf).
