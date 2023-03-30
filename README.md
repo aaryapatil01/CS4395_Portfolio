@@ -35,3 +35,8 @@ You can access my first program [here](https://github.com/aaryapatil01/CS4395_Po
 This is our sixth assignment. We worked in teams of 2 to build a web crawler and do web scraping with Beautiful Soup and other APIs.
 
 You can access my code [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%206/main.py) and the document explaining it more in depth [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%206/Overview_of_Corpus_Creation.pdf).
+
+## Portfolio Assignment: Text Classification (Assignment 7)
+This is our seventh assignment. We had to find a text classification data set and perform Naïve Bayes, Logistic Regression, and Neural Networks algorithms on the data. 
+
+You can access my python notebook [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%207/HLT_Text_Classification.pdf).
