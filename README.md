@@ -40,3 +40,9 @@ You can access my code [here](https://github.com/aaryapatil01/CS4395_Portfolio/b
 This is our seventh assignment. We had to find a text classification data set and perform Naïve Bayes, Logistic Regression, and Neural Networks algorithms on the data. 
 
 You can access my python notebook [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%207/HLT_Text_Classification.pdf).
+
+## Portfolio Assignment: Text Classification 2 (Assignment 8)
+This is our eighth assignment. We had to find another text classification data set and perform Sequential, CNN, and different embedding approaches on the data. 
+
+You can access my python notebook [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Assignment%208/HLT_Text_Classification_2.pdf).
+
